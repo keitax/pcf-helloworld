@@ -1,0 +1,13 @@
+{
+    "dependencies": {
+        "github.com/Masterminds/squirrel": {
+            "branch": "master"
+        },
+        "github.com/Sirupsen/logrus": {
+            "branch": "master"
+        },
+        "github.com/go-sql-driver/mysql": {
+            "branch": "master"
+        }
+    }
+}
